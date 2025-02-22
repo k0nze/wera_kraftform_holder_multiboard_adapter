@@ -7,7 +7,7 @@ $fs = 1;
 // height and position of multiboard snap
 snap_height = 11;
 snap_pos_y = 24;
-snap_pos_z = 5.6;
+snap_pos_z = 5.4;
 
 // default right adapter
 left_adapter = 0;
